@@ -15,7 +15,7 @@ public class FiliadoTest {
         String Nome = "Bruno";
         String RegistroCbj = "1234";
         String dataNascimento = "01/02/2003";
-        String Email = "bruninho.gamplays@htomail.com";
+        String Email = "bruninho.gamplays@hotmail.com";
         String Cpf = "135.854.967-56";
 
 
